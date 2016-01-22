@@ -375,9 +375,9 @@ INTERN const char*  appname      = "unpackpjg";
 INTERN const char*  versiondate  = "12/07/2013";
 INTERN const char*  author       = "Matthias Stirner / Se";
 #if !defined(BUILD_LIB)
-INTERN const char*  website      = "http://www.elektronik.htw-aalen.de/packjpg/";
-INTERN const char*	copyright    = "2006-2013 HTW Aalen University & Matthias Stirner";
-INTERN const char*  email        = "packjpg (at) htw-aalen.de";
+INTERN const char*  website      = "http://packjpg.encode.ru/";
+INTERN const char*  email        = "packjpg (at) matthiasstirner.com";
+INTERN const char*	copyright    = "2006-2016 HTW Aalen University & Matthias Stirner";
 INTERN const char*  pjg_ext      = "pjg";
 INTERN const char*  jpg_ext      = "jpg";
 #endif
