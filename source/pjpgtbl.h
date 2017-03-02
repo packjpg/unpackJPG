@@ -6,6 +6,7 @@
 #define A_COMPRESS			1
 
 // file type defines
+#define F_JPG				1
 #define F_PJG				2
 #define F_UNK				3
 
